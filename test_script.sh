@@ -7,3 +7,4 @@ do
    echo "${line}" 
 done  < list
 
+echo "Second test"
